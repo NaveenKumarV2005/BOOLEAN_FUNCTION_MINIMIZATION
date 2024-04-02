@@ -13,11 +13,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 Hardware – PCs, Cyclone II , USB flasher
 
-**Software – Quartus prime**
-
-**Theory**
-
-**Logic Diagram**
+Software – Quartus prime
 
 **Procedure**
 
@@ -40,6 +36,12 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 ## truth table:
+
+
+![316395754-a9ccb75e-db7b-490e-8b69-10f820e6bff4](https://github.com/NaveenKumarV2005/BOOLEAN_FUNCTION_MINIMIZATION/assets/151476286/65556930-73cf-4fe0-99f4-386561139f69)
+
+
+
 
 
 
@@ -65,6 +67,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Output:**
+**Logic Diagram**
 
 ![image](https://github.com/NaveenKumarV2005/BOOLEAN_FUNCTION_MINIMIZATION/assets/151476286/95ac0426-1392-495b-9535-7101b025e7e6)
 
