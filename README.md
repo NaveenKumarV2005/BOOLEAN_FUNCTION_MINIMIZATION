@@ -39,6 +39,21 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 
+## truth table:
+
+
+
+
+
+
+![316395946-6835b6c0-9fe5-4f55-8288-53b7d0c42104](https://github.com/NaveenKumarV2005/BOOLEAN_FUNCTION_MINIMIZATION/assets/151476286/ea7a10f2-719e-4ca9-8115-410fe9eab135)
+
+
+
+
+
+
+
 **RTL realization**
 
 
