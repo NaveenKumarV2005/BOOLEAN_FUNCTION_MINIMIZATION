@@ -59,10 +59,8 @@ Software – Quartus prime
 **RTL realization**
 
 
-![316396315-3294f442-723b-4550-ab9c-49ed60325deb](https://github.com/NaveenKumarV2005/BOOLEAN_FUNCTION_MINIMIZATION/assets/151476286/574b342b-345b-472e-be6f-60bb32263810)
 
-
-
+![316222000-35846536-0657-4c35-9caa-81906cb5b6bd](https://github.com/NaveenKumarV2005/BOOLEAN_FUNCTION_MINIMIZATION/assets/151476286/6432e9e0-24f8-495f-8e3d-4ebcdbbe7002)
 
 
 
