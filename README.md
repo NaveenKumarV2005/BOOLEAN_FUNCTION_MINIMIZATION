@@ -30,8 +30,8 @@ Software – Quartus prime
 
 **Program:**
 
+![Screenshot 2024-04-15 220041](https://github.com/NaveenKumarV2005/BOOLEAN_FUNCTION_MINIMIZATION/assets/151476286/78253b81-a8e6-406f-a551-3d269240bc40)
 
-![Screenshot 2024-04-02 220032](https://github.com/NaveenKumarV2005/BOOLEAN_FUNCTION_MINIMIZATION/assets/151476286/0755ca0a-496f-4db9-b60b-aed54af4c320)
 
 
 
