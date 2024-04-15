@@ -68,6 +68,9 @@ Software – Quartus prime
 **Logic Diagram**
 
 
+![Screenshot 2024-04-15 221521](https://github.com/NaveenKumarV2005/BOOLEAN_FUNCTION_MINIMIZATION/assets/151476286/2fc79cda-b028-4ff5-96a7-332131d05752)
+
+
 
 
 
